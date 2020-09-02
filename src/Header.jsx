@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <h1>RoboFriends</h1>
+        <h1 className="f2 f1-l">RoboFriends</h1>
     );
 };
 
