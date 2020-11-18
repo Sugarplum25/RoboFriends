@@ -10,7 +10,7 @@
 __Превью__
 [![](https://i.ibb.co/0mmDcQ5/roboscreen.png)](https://i.ibb.co/0mmDcQ5/roboscreen.png)
 ---
-__Деплой__: https://github.com/Sugarplum25/RoboFriends
+__Деплой__: https://sugarplum25.github.io/RoboFriends/
 
 
 
