@@ -1,5 +1,4 @@
 # Project [RoboFriends](https://sugarplum25.github.io/RoboFriends/)
-### RoboFriends project
 ---
 Приложение формирует карточки роботов-пользователей на основе информации, полученной от двух сторонних api:
 * https://robohash.org/ - для картинок роботов 
