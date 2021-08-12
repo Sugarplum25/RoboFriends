@@ -17,8 +17,7 @@ const App = () => {
             .then((users) => setRobots(users))
     }, []);
     const filteredRobots = robots.filter((robot) => {
-        return robot.name.toLowerCase()
-                        .includes(searchField.toLowerCase());
+        return robot.name.toLowerCase().includes(searchField.toLowerCase());
     });
     if (!robots.length) {
         return <h1 className="title">LOADING</h1>
